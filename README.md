@@ -1,2 +1,32 @@
-# algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 📘 Algorithm Repository
+
+이 저장소는 [프로그래머스(Programmers)](https://school.programmers.co.kr/)에서 푼 알고리즘 문제를 정리한 공간입니다.  
+코딩 테스트와 기술 면접 대비를 위해 꾸준히 문제를 풀고, 코드와 함께 정리하고 있습니다.
+
+---
+
+## 🗂️ 디렉토리 구조
+
+```bash
+JavaScript/
+└── 프로그래머스/
+    ├── 1/
+    │   ├── 12982. 예산/
+    │   └── 147355. 크기가 작은 부분문자열/
+    ├── 2/
+    ├── 3/
+    └── ...
+```
+
+## 🧩 사용 목적
+
+- 코딩 테스트 대비 알고리즘 풀이 능력 향상
+- 문제 해결 패턴 습득 및 기록
+- GitHub 기반 풀이 이력 관리
+
+## 🛠 사용 도구
+| 도구	| 설명 |
+| :---: | :---: |
+| BaekjoonHub	| 문제 제출 시 자동 업로드 |
+| GitHub | 버전 관리 및 풀이 기록 |
+| JavaScript | 주 사용 언어 |
