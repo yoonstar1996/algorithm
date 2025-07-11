@@ -1,7 +1,8 @@
 # 📘 Algorithm Repository
 
-이 저장소는 [프로그래머스(Programmers)](https://school.programmers.co.kr/)에서 푼 알고리즘 문제를 정리한 공간입니다.  
-코딩 테스트와 기술 면접 대비를 위해 꾸준히 문제를 풀고, 코드와 함께 정리하고 있습니다.
+이 저장소는 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)를 통해 **백준(BOJ), 프로그래머스, 기타 알고리즘 문제 풀이 코드**를 자동으로 업로드하는 공간입니다.
+
+> 꾸준한 알고리즘 풀이와 기록을 통해 문제 해결 능력을 향상시키기 위해 만들었습니다.
 
 ---
 
