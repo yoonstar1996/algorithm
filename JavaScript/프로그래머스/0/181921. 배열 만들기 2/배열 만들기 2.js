@@ -1,8 +1,8 @@
 function solution(l, r) {
-    var answer = [];
+    const answer = [];
 
     for(let i = l; i <= r; i++) {
-        let str = i.toString();
+        const str = i.toString();
         let bool = true;
         
         for(let j of str) {
